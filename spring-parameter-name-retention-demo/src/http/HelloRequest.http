@@ -1,0 +1,2 @@
+### 인사 건네기
+GET http://localhost:8080/hello?name=홍길동
